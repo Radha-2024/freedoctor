@@ -2,3 +2,5 @@ dist
 dist-ssr
 *.local
 .env
+node_modules
+.vite
